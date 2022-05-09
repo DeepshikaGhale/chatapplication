@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "262135719366",
+    "firebase_url": "https://chat-6e96f-default-rtdb.firebaseio.com",
     "project_id": "chat-6e96f",
     "storage_bucket": "chat-6e96f.appspot.com"
   },
@@ -14,7 +15,7 @@
       },
       "oauth_client": [
         {
-          "client_id": "262135719366-g9uq91s000v01o857psi2ja0nfu6mv3o.apps.googleusercontent.com",
+          "client_id": "262135719366-67to4ohhdaru77ib3qaklcp3l7n0crdt.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.chats",
